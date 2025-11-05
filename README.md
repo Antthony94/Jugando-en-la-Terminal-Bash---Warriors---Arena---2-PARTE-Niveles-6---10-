@@ -8,9 +8,9 @@
 Esta es la parte 2 de la practica de Ciberseguridad - Jugando en la Terminal  
 **Práctica 1.1 - Bash Battle Arena**  
 **Alumno:** Anthony Damián Córdova Cacay  
-**Fecha:** 05/10/2025  
+**Fecha:** 05/11/2025  
 **Niveles completados:** 6-10  
-**Tiempo aproximado:** 3 horas
+**Tiempo aproximado:** 2 horas
 
 ---
 
